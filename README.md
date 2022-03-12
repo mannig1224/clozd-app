@@ -23,4 +23,8 @@ single user in detail.
 
 # Side notes
 
-    it would be cool to add a sorting feature to the list.
+    - it would be cool to add a sorting feature to the list
+    - need to work on making the app more efficient,since we are working with 7000 users
+    - need to work on styling
+    - smaller row sizes for list view to make it easier to navigate all 200 users on one page
+    - pagination could use some work on looking better
