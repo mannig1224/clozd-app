@@ -1,29 +1,30 @@
-# H1 About
+# About
 
 A client has user data for all of their employees that they would like to visualize. They’ve asked
 to be able to go through a summary of all the data in list format and also to be able to see any
 single user in detail.
 
-# h3 Outcome
+# Outcome
+- [x] 7000 users
+- [x] List summary - include full name, email, and city/country
+- [x] Detailed summary - Include photo, full name, email, full address, phone number, and date of birth
 
-There should be one main page with the users data listed. The client should be able to click on a user in the list and navigate to a details page where they can view more information.
-● Main page
-○ List summary - include full name, email, and city/country
-● Details page
-○ Include photo, full name, email, full address, phone number, and date of birth
-
-# h3 Installation
+# Installation
 
 `npm i`
 
 `npm start`
 
-# h3 Dependencies Used
+# Dependencies Used
 
     - axios
     - react-modal
     - bootstrap
 
-# h3 Side notes
+# Side notes
 
-    it would be cool to add a sorting feature to the list.
+    - it would be cool to add a sorting feature to the list
+    - need to work on making the app more efficient,since we are working with 7000 users
+    - need to work on styling
+    - smaller row sizes for list view to make it easier to navigate all 200 users on one page
+    - pagination could use some work on looking better
